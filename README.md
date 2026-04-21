@@ -15,3 +15,4 @@ This project automatically organizes files into folders based on file type.
 
 ## How to Run
 Place files in 'test_files' folder and run main.py
+update 1
